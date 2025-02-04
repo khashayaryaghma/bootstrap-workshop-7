@@ -1,13 +1,17 @@
-.logo{
-    width: 4rem;
+.logo {
+  width: 4rem;
 }
 
-.news{
-    max-width: 30rem;
+.news {
+  max-width: 30rem;
 }
-.course-body{
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    justify-content: space-between;
+.course-body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+}
+.showcase {
+  padding-top: 6rem;
+  padding-bottom: 3rem;
 }
